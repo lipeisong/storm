@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e22ff569-32d7-4830-8408-bb7b2d66685f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/imooc/bigdata/Integration/demo/HelloWorld.java" afterPath="$PROJECT_DIR$/src/main/java/com/imooc/bigdata/Integration/demo/HelloWorld.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -64,8 +65,8 @@
       <file leaf-file-name="HelloWorld.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/bigdata/Integration/demo/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+            <state relative-caret-position="407">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -497,7 +498,7 @@
       <workItem from="1537103186206" duration="5294000" />
       <workItem from="1537191167826" duration="988000" />
       <workItem from="1537233778044" duration="197000" />
-      <workItem from="1537531213075" duration="713000" />
+      <workItem from="1537531213075" duration="1521000" />
     </task>
     <task id="LOCAL-00001" summary="初始化redis分支">
       <created>1537531502924</created>
@@ -520,11 +521,25 @@
       <option name="project" value="LOCAL" />
       <updated>1537531924597</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="初始化redis分支">
+      <created>1537531934031</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1537531934031</updated>
+    </task>
+    <task id="LOCAL-00005" summary="初始化redis分支">
+      <created>1537532057621</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1537532057621</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7192000" />
+    <option name="totallyTimeSpent" value="8000000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -704,8 +719,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/imooc/bigdata/Integration/demo/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        <state relative-caret-position="407">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding />
         </state>
       </provider>
